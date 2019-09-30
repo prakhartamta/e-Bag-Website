@@ -1,6 +1,6 @@
 **************Syntax Error Hackathon*************************************************
 
-DESCRIPTION: This is the solution to the e-commerce website 
+DESCRIPTION: This is a ebag website 
 
 _____________________________________________Folder Structure__________________________________________________
 	
